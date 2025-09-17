@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Dragonzinho00! 👋
 
-<!--
-**Dragonzinho00/Dragonzinho00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Desenvolvedora apaixonado por tecnologia e arte, com habilidades em Python, e projetos web. Busco aprender e compartilhar conhecimento.
 
-Here are some ideas to get you started:
+## Habilidades
+- Python 
+- Git & GitHub
+- Edição de vídeos
+- Social Midias
+- Tráfego Pago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- Realizei a criação de arte e tráfego pago, para um empresa com foco estético [Flor do sol](https://www.instagram.com/esteticaeterapiabc)☀️
+
+## Contato
+- [LinkedIn🗨️](https://www.linkedin.com/in/laura-izabel-0056a81a0)
+- [Email📧](mailto:lauraizabel00@gmail.com)
