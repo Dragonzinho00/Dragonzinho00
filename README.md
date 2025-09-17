@@ -11,7 +11,7 @@ Desenvolvedora apaixonado por tecnologia e arte, com habilidades em Python, e pr
 - Tráfego Pago
 
 ## Projetos em destaque
-- Realizei a criação de arte e tráfego pago, para um empresa com foco estético [Flor do sol](https://www.instagram.com/esteticaeterapiabc)☀️
+- Realizei a criação de arte e tráfego pago, para um empresa com foco em tratamento estético [Flor do sol](https://www.instagram.com/esteticaeterapiabc)☀️
 
 ## Contato
 - [LinkedIn🗨️](https://www.linkedin.com/in/laura-izabel-0056a81a0)
