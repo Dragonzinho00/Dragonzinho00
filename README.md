@@ -1,19 +1,19 @@
-# Olá, eu sou o Dragonzinho00! 👋
+# Olá visitante, eu sou Laura Izabel! Venha conhecer melhor o que venho construindo. 👋
 
-## Sobre mim
-Desenvolvedora apaixonado por tecnologia e arte, com habilidades em Python, e projetos web. Busco aprender e compartilhar conhecimento.
+## Acompanhe sobre mim
+Designer apaixonada por tecnologia, realizando minha formação como Desginer Gráfica  e como Engenheira da Computação. 
 
-## Habilidades
+## Conheça algumas das minhas habilidades:
 - Python 
 - Figma
 - Adobe Photoshop | Illustrator | InDesign | Premiere
 - Edição de vídeos
-- Social Midias
-- Tráfego Pago
+- Design for Social Midias
+- Tráfego Pago Meta
 
-## Projetos em destaque
-- Realizei a criação de arte e tráfego pago, para um empresa com foco em tratamento estético [Dra. Solene Silva](https://www.instagram.com/dra.solenesilva/)☀️
+## Projetos que tive a oportunidade de participar
+- Realizei a criação de arte e tráfego pago, para uma empresa com foco em tratamento estético [Dra. Solene Silva](https://www.instagram.com/dra.solenesilva/)☀️
 
-## Contato
+## Outras formas de saber um pouco mais sobre mim
 - [LinkedIn🗨️](https://www.linkedin.com/in/laura-izabel-0056a81a0)
-- [Email📧](mailto:lauraizabel00@gmail.com)
+- Se tiver alguma dúvida me manda aqui --> [Email📧](mailto:lauraizabel00@gmail.com)
