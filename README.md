@@ -5,13 +5,14 @@ Desenvolvedora apaixonado por tecnologia e arte, com habilidades em Python, e pr
 
 ## Habilidades
 - Python 
-- Git & GitHub
+- Figma
+- Adobe Photoshop | Illustrator | InDesign | Premiere
 - Edição de vídeos
 - Social Midias
 - Tráfego Pago
 
 ## Projetos em destaque
-- Realizei a criação de arte e tráfego pago, para um empresa com foco em tratamento estético [Flor do sol](https://www.instagram.com/esteticaeterapiabc)☀️
+- Realizei a criação de arte e tráfego pago, para um empresa com foco em tratamento estético [Dra. Solene Silva](https://www.instagram.com/dra.solenesilva/)☀️
 
 ## Contato
 - [LinkedIn🗨️](https://www.linkedin.com/in/laura-izabel-0056a81a0)
